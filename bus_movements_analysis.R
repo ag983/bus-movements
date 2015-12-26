@@ -5,6 +5,7 @@
 
 cars_data = mtcars
 cars_data_excerpt = cars_data[1:10,1:4]
+cars_data_excerpt_2 = cars_data[1:5, 1:6]
 
 sum(cars_data_excerpt[,2])
 
